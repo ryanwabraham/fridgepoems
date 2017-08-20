@@ -1,7 +1,7 @@
 {
-    "name": "fridge-poet",
+    "name": "fridgepoems",
     "version": "0.0.1",
-    "description": "dependencies for fridge-poet",
+    "description": "dependencies for fridgepoems",
     "dependencies": {
         "socket.io": "^1.3.6",
         "node-static": "^0.7.7",
